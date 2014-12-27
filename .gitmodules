@@ -1,0 +1,3 @@
+[submodule "MilSymbol"]
+	path = MilSymbol
+	url = https://github.com/spatialillusions/MilSymbol.git
