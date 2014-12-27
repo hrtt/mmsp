@@ -1,4 +1,4 @@
 mmsp
 ====
 
-meteor ms package
+meteor.js ms package
